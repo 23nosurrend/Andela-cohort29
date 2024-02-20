@@ -47,7 +47,11 @@ margin: px;
     border-color: #F5D04E;
 }
 #yellow-text{
-    color:#F5D04E
+    color:black
+}
+#yellow-text:hover{
+    color:#F5D04E;
+    font-weight: bolder;
 }
 
 
